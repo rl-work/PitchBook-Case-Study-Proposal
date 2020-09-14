@@ -1,2 +1,2 @@
 # PitchBook-Case-Study-Proposal
-A Fin-Tech study on investment company, PitchBook, 
+A Fin-Tech study on investment company, PitchBook.

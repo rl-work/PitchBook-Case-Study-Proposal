@@ -22,5 +22,6 @@ domain of the financial industry? What have been the major trends & innovations 
 
 
 ### Sources
-* https://pitchbook.com/
-* https://builtin.com/fintech/fintech-companies-startups-to-know
+* *https://pitchbook.com/
+* *https://builtin.com/fintech/fintech-companies-startups-to-know
+* *https://en.wikipedia.org/wiki/PitchBook_Data#History

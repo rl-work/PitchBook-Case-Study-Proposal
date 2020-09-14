@@ -1,5 +1,5 @@
- # TITLE  PitchBook-Data-Case-Study-Proposal
-A Fin-Tech study on investment company, PitchBook.
+ # PitchBook-Data-Case-Study-Proposal
+A Fin-Tech study on PitchBook; a company which provides data, research, and technology to subscription based customers on venture capital, private equity, and M&A Transactions.
 
 ## Overview and Origin
 * PitchBook was incorporated in 2009 by Founder & CEO John Gabbert in Seattle, Washington. Gabbert's inspiration for PitchBook came from  This lack of information which inspired him to start a company providing this data to customers.The company received investment of $4.25 million from Morningstar and angel investors. Additionally, they received $10 million in January of 2016 from Morningstar and were later fully acquired by Morningstar in December 2016; although PitchBook continues to run under its original name and founder. 

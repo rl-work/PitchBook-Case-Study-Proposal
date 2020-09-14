@@ -8,6 +8,6 @@ A Fin-Tech study on investment company, PitchBook.
 ## Landscape:
 domain of the financial industry? What have been the major trends & innovations of this domain over the last 5-10 years? What are other major companies doing in this domain?
 ## Results
-*what has been the business impact of this company so far? What are some of the core metrics that companies in this domain use to measure success? How is your company performing based on these metrics?
+* what has been the business impact of this company so far? What are some of the core metrics that companies in this domain use to measure success? How is your company performing based on these metrics?
 ## Recommendations
-*If you were to advise the company, what products or service would you suggest they offer? [this could be something that a competitor offers, or use your imagination], why do you thing that offering this product or service would benefit the company? What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
+* If you were to advise the company, what products or service would you suggest they offer? [this could be something that a competitor offers, or use your imagination], why do you thing that offering this product or service would benefit the company? What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?

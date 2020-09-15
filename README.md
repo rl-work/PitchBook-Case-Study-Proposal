@@ -17,9 +17,10 @@ PitchBook's domain of the financial industry is capital investment and wealth ma
 
 
 ## Recommendations
-* A general recommendation for PitchBook would be to 
+* A general recommendation for PitchBook would be to create an algorithm that would reject the J-curve generic exponential growth model as the basis of a company's growth potential and create a new model that projects firm growth with a new formula. Due to COVID and the climate of the market, the traditional method of growth will not be accurate and companies may be excluded from funding due to inaccurate data projections.   
 
-If you were to advise the company, what products or service would you suggest they offer? [this could be something that a competitor offers, or use your imagination],I would offer  why do you thing that offering this product or service would benefit the company? What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
+If you were to advise the company, what products or service would you suggest they offer? [this could be something that a competitor offers, or use your imagination],I would offer 
+why do you thing that offering this product or service would benefit the company? What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
 
 
 

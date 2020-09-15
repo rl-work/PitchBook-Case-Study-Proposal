@@ -9,11 +9,12 @@ A Fin-Tech overview on PitchBook; a company that provides financial data, news a
 * Pitchbook now offers 120,000+ unique market size estimates for 30,000+ markets, and as of May 2020, the market size is adding hundreds by the day. PitchBook offers data that covers the whole life-cycle of the venture capital industry. This data includes unlimited partners, partner's commitment to the funds, performance of funds, and then investing that capital into early stage businesses. According to Stackshare, the technology PitchBook Data uses includes Apache HTTP Server, Amazon CloudFront, Apache Tomcat, Google Analytics, Otimizely, and Crazy Egg. 
 
 ## Landscape:
-PitchBook's domain of the financial industry is capital investment and wealth management. The impact of COVID-19 has been staunch in this domain, as "companies are cutting costs to survive in an uncertain market". Successful companies can take 10-15 years to grow and be successful, but since the pandemic, the shift of business standpoints have "shifted from profitability to survival", according to the managing director at General Catalyst. Prior to COVID-19,  What have been the major trends & innovations of this domain over the last 5-10 years? What are other major companies doing in this domain?
+PitchBook's domain of the financial industry is capital investment and wealth management. The impact of COVID-19 has been staunch in this domain, as "companies are cutting costs to survive in an uncertain market". Successful companies can take 10-15 years to grow and be successful, but since the pandemic, the shift of business standpoints have "shifted from profitability to survival", according to the managing director at General Catalyst. Prior to COVID-19, PitchBookData shifted the transparency in VC firms by providing thoroughly researched data which assists customers in making educated decisions on whether or not to invest, which reduces risk.   What have been the major trends & innovations of this domain over the last 5-10 years? What are other major companies doing in this domain?
 
 
 ## Results
-* what has been the business impact of this company so far? The impact of the company has been significant, as aforementioned, they are partnered with ACG &   What are some of the core metrics that companies in this domain use to measure success? How is your company performing based on these metrics?
+* The impact of the company has been significant, as aforementioned, they are partnered with ACG & NVCA. 
+what has been the business impact of this company so far?   What are some of the core metrics that companies in this domain use to measure success? How is your company performing based on these metrics?
 
 
 ## Recommendations

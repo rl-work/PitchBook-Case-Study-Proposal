@@ -1,11 +1,11 @@
  # PitchBook-Data-Case-Study-Proposal
-A Fin-Tech study on PitchBook; a company which provides data, research, and technology to subscription based customers on venture capital, private equity, and M&A Transactions.
+A Fin-Tech overview on PitchBook; a company that provides financial data to subscription based customers on venture capital, private equity, and M&A Transactions.
 
 ## Overview and Origin
-* PitchBook was incorporated in 2009 by Founder & CEO John Gabbert in Seattle, Washington. Gabbert's inspiration for PitchBook came from  This lack of information which inspired him to start a company providing this data to customers.The company received investment of $4.25 million from Morningstar and angel investors. Additionally, they received $10 million in January of 2016 from Morningstar and were later fully acquired by Morningstar in December 2016; although PitchBook continues to run under its original name and founder. 
+* PitchBook was incorporated in 2009 by Founder & CEO John Gabbert in Seattle, Washington. Gabbert's inspiration for PitchBook came after his former employer cut the financial data services offered to customers. Initially, the company received investment of $4.25 million from Morningstar and angel investors. Additionally, they received $10 million in January of 2016 from Morningstar and were later fully acquired by Morningstar in December 2016; although PitchBook continues to run under its original name and founder. 
 
 ## Business Activities
-* What specific financial problem is the company or priject trying to solve? Who is the company's intended customer? Is there any info about the market size of this set of customers? What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) What technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing, search the company's engineering blog or use sites like Stackshare to find this info.)
+*  What specific financial problem is the company or priject trying to solve? Who is the company's intended customer? Is there any info about the market size of this set of customers? What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) What technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing, search the company's engineering blog or use sites like Stackshare to find this info.)
 
 ## Landscape:
 domain of the financial industry? What have been the major trends & innovations of this domain over the last 5-10 years? What are other major companies doing in this domain?

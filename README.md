@@ -9,7 +9,7 @@ A Fin-Tech overview on PitchBook; a company that provides financial data to subs
 Is there any info about the market size of this set of customers? The solution this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) According to Stackshare, the technology PitchBook Data uses includes Apache HTTP Server, Amazon CloudFront, Apache Tomcat, Google Analytics, Otimizely, and Crazy Egg. 
 
 ## Landscape:
-PitchBook's domain of the financial industry is ? What have been the major trends & innovations of this domain over the last 5-10 years? What are other major companies doing in this domain?
+PitchBook's domain of the financial industry is capital investment and wealth management.  What have been the major trends & innovations of this domain over the last 5-10 years? What are other major companies doing in this domain?
 
 
 ## Results

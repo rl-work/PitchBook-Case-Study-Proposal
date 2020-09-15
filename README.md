@@ -19,12 +19,6 @@ A Fin-Tech overview on PitchBook; a company that provides financial data, news a
 ## Recommendations
 * A general recommendation for PitchBook would be to create an algorithm using Python that would reject the J-curve generic exponential growth model as the basis of a company's growth potential and create a new model that projects firm growth with a new formula. Due to COVID and the climate of the market, the traditional method of growth will not be accurate and companies may be excluded from funding due to inaccurate data projections.   
 
-If you were to advise the company, what products or service would you suggest they offer? [this could be something that a competitor offers, or use your imagination],I would offer 
-why do you thing that offering this product or service would benefit the company? What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
-
-
-
-
 ### Sources
 * *https://pitchbook.com/*
 * *https://builtin.com/fintech/fintech-companies-startups-to-know*
